@@ -1,4 +1,4 @@
-# WebSharper Peity
+# WebSharper Peity [![Build status](https://ci.appveyor.com/api/projects/status/y3igub9051gnksgx?svg=true)](https://ci.appveyor.com/project/IntelliFactory/peity)
 
 Sample for [WebSharper](https://websharper.com) bindings for Peity.
 
